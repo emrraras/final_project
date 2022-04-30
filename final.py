@@ -1,1 +1,2 @@
 #final ödevi
+print("merhaba")
